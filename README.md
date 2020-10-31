@@ -1,6 +1,3 @@
-# proj3_lithology_prediction
-
-
 # Lithology prediction from oil and gas well log data
 The aim of this project is to use supervised logistic regression and other classification methods to train and ultimately predict the rock types present in a zone-of-interest for unknown (unlabeled) wells.
 
