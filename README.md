@@ -1,7 +1,7 @@
 # Lithology prediction from oil and gas well log data
 The aim of this project is to use supervised logistic regression and other classification methods to train and ultimately predict the rock types present in a zone-of-interest for unknown (unlabeled) wells.
 
-### Lithology prediction addresses a crucial part of a potential investment into exploring for oil/gas field:
+### Lithology prediction addresses a crucial part of a potential investment into exploring for oil and gas:
 - How economical is this field likely to be based on its predicted size? So we could imagine that mis-predictions for the overall thickness of certain lithologies could have very significant consequences in the risk aversion for an oil and gas investment portfolio. In other words, if the size of the prize is not likely to deliver enough return-on-investment, that project would likely not get funded.
 - On the flipside, if a company has already committed to drilling wells and they subsequently find out there was a lot less reservoir than previously predicted, then the value of that project could become severely eroded.
 
